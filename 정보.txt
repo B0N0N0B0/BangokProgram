@@ -1,0 +1,37 @@
+main banner size : 1920 * 440
+escape button : 75 * 75
+logout button : 75 * 75
+
+
+pdm and stm button : 380 * 280
+cal button : 920 * 280
+
+term : 80,40 | 130
+
+password background image : term 180, 1560 * 250
+reset password button : 1/3 * 70
+
+reset password bg : 640 * 760
+ok,no button : 240 * 120
+
+product management background : 1920 * 880
+img lists -> y :: 150 * 5,uTerm : 25, term : 20 / u*2 + t*4 = 130
+             x :: 750 * 2 , 420, term : 120, st : 150
+start_pos = a,b
+y = b + 170*(n-1)
+x = if >5, a + 850
+
+product management buttons : 300 * 150
+
+pd add screen add/deny button : 240*75
+
+pd modify screen modify button and confirm button : 50*50
+pd modify screen save and cancel button : 240*75
+
+
+std mainbanner : 1920*350
+std  log button :  850 * 250
+std manage button : 850 * 250
+
+제품군:
+문구,간편식,음료,의약,스낵,생필품,전자,미용,이벤트,기타
